@@ -20,5 +20,3 @@ Our platform uses a **Client–Edge–On‑Chain–Off‑Chain** pattern to achi
 2) Edge queries **LabelResolver** on zkEVM for IPFS CID → fetches dossier from IPFS (cached).  
 3) App renders verified info + links; scan event logged on private ledger → nightly anchor hash to L2.
 
-## Figures
-See `/figures/Technical_Architecture.png` (exported from your slide).
