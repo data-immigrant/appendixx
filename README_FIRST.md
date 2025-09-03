@@ -3,7 +3,7 @@
 Date: 2025-09-03
 
 This package contains all appendices referenced in the appeal for criterion **g.8** (scalability & broad reach).
-Each appendix is a concise, copy‑paste‑ready document. A `/figures` folder includes the original slides/screens shown in the application.
+Each appendix is a concise, document.
 
 ## Contents
 
@@ -18,4 +18,4 @@ Each appendix is a concise, copy‑paste‑ready document. A `/figures` folder i
 - 09_Appendix_I_Onboarding_SelfService.md
 - 10_Appendix_J_Compliance_Dashboards_APIs.md
 - unit_economics_template.xlsx
-- /figures  (all screenshots provided by the user)
+
