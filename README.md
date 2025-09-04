@@ -1,6 +1,6 @@
 Women TechEU Appeal – Appendices
 
-Date: 2025-09-03
+Date: 2025-08-27
 
 This package contains all appendices referenced in the appeal for criterion g.8 (scalability & broad reach). Each appendix is a concise, document.
 Contents
